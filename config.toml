@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.sriram-krishnan.com/"
 title   = "Sriram Krishnan"
 languageCode = "en-us"
 theme = "hello-friend-ng"
