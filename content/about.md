@@ -8,7 +8,7 @@ aliases = ["about"]
 
 Hi there 👋 
 
-I'm Sriram! After working in Finance and starting an [EdTech venture](http://learningroots.in/us), I now write code for a living and love doing it. I started off learning Ruby (with Rails) and JavaScript at Le Wagon, but now mainly deal with Python and Django along with the DevOps bells and whistles of Docker, Kubernetes, and CircleCI.
+I'm Sriram! After working in Finance and starting an [EdTech venture](http://learningroots.in/us), I now write code for a living and love doing it. I started off learning Ruby (with Rails) and JavaScript at [Le Wagon, Tokyo](https://www.lewagon.com/tokyo), but now mainly deal with Python and Django along with the DevOps bells and whistles of Docker, Kubernetes, and CircleCI.
 
 Apart from my regular work, I love reading books. Do check out the books section of the blog. I plan to take notes from my readings and add them there. 
 
