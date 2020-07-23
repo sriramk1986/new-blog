@@ -16,6 +16,8 @@ categories = [
   name = "Sriram Krishnan"
 +++
 
+![AWS Solutions Architect](/aws-sol-architect.png)
+
 I took the AWS Certified Solutions Architect - Associate (SAA-C02) exam around a week back and managed to pass it with a score of 838. Having had no prior experience of the AWS ecosystem prior to preparing for the test, I thought of penning down a few pointers and tips on how I prepared so that others may find it helpful.
 
 ## TL;DR Here are the courses I recommend
